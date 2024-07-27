@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@deno/mod.js';
+import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@v0.2.2-deno/mod.js';
 ```
 
 #### hasSymbolSupport()
@@ -65,7 +65,7 @@ var bool = hasSymbolSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@deno/mod.js';
+import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@v0.2.2-deno/mod.js';
 
 var bool = hasSymbolSupport();
 if ( bool ) {
